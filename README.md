@@ -4,11 +4,11 @@ Este proyecto es una aplicación desarrollada con Flutter. Sigue los pasos a con
 
 Clona el repositorio:
 
-  git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+  git clone https://github.com/darkyuyo/uf_convertidor.git
 
 Ingresa al directorio del proyecto:
 
-  cd TU_REPOSITORIO
+  cd uf_convertidor
 
 Limpia la caché del proyecto:
 
