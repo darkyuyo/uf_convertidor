@@ -1,16 +1,38 @@
-# uf_convertidor
+Este proyecto es una aplicación desarrollada con Flutter. Sigue los pasos a continuación para configurarlo y ejecutarlo correctamente.
 
-A new Flutter project.
+🚀 Instalación y Configuración
 
-## Getting Started
+Clona el repositorio:
 
-This project is a starting point for a Flutter application.
+  git clone https://github.com/darkyuyo/uf_convertidor.git
 
-A few resources to get you started if this is your first Flutter project:
+Ingresa al directorio del proyecto:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  cd uf_convertidor
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Limpia la caché del proyecto:
+
+  flutter clean
+
+Descarga las dependencias:
+
+  flutter pub get
+
+📲 Compilación para Android
+
+Para compilar y ejecutar la aplicación en un dispositivo o emulador Android, usa:
+
+  flutter run
+
+Si tienes varios dispositivos disponibles, puedes listar y elegir uno con:
+
+  flutter devices
+  flutter run -d NOMBRE_DEL_DISPOSITIVO
+
+🔑 Credenciales de Acceso
+
+Para acceder a la aplicación, usa las siguientes credenciales:
+
+  Usuario: admin
+
+  Contraseña: admin
